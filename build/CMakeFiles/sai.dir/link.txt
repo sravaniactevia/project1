@@ -1,0 +1,3 @@
+"C:\Users\G. Sai Sravani\Downloads\cmake-3.26.3-windows-x86_64\cmake-3.26.3-windows-x86_64\bin\cmake.exe" -E rm -f CMakeFiles\sai.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\sai.dir/objects.a @CMakeFiles\sai.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\sai.dir/objects.a -Wl,--no-whole-archive -o sai.exe -Wl,--out-implib,libsai.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sai.dir\linkLibs.rsp

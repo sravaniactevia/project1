@@ -1,0 +1,3 @@
+C:/Users/G. Sai Sravani/Documents/firstproject/build/CMakeFiles/sai.dir
+C:/Users/G. Sai Sravani/Documents/firstproject/build/CMakeFiles/edit_cache.dir
+C:/Users/G. Sai Sravani/Documents/firstproject/build/CMakeFiles/rebuild_cache.dir
